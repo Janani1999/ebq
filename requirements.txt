@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+gurobipy
+ortools
+openpyxl
